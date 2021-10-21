@@ -10,3 +10,5 @@
 6. [8,11,12,16,21,22]
 
 **Big-O Gösterimi = >** O(nlogn) 
+
+Proje deneme
