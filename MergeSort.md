@@ -11,4 +11,3 @@
 
 **Big-O Gösterimi = >** O(nlogn) 
 
-Proje deneme
